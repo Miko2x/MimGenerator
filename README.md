@@ -1,7 +1,7 @@
 # mim_generator
 <div>
     <img src="screenshot/derita_kuli_ketik.jpeg" width="200"/>
-    <img src="qr_code_mim_generator.png" width="200"/>
+    <img src="screenshot/qr_code_mim_generator.png" align="right" width="200"/>
 </div>
 
 Aplikasi untuk membuat meme, anda bisa menambahkan component text, dan gambar. Sesuaikan component tersebut sesuka hati anda, karena component tersebut bisa di scale, drag & drop 🥳.
